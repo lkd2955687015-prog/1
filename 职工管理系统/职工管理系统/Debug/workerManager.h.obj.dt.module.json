@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "职工管理系统\\Debug\\workerManager.obj",
+            "outputs": [
+                "职工管理系统\\Debug\\workerManager.h.obj.dt.module.json",
+                "职工管理系统\\Debug\\workerManager.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
